@@ -1,4 +1,4 @@
-**YouTube Comment Intelligence System**
+# **YouTube Comment Intelligence System**
 This project analyzes YouTube comments to extract meaningful audience insights using unsupervised Natural Language Processing techniques.
 
 ## Project Stages
